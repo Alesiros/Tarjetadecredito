@@ -1,0 +1,256 @@
+---
+title: "Tarjeta De Crédito"
+author: "Equipo 2"
+date: "2023-09-26"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Tarjeta de Crédito
+
+::: {style="color: #C0C0C0;"}
+૮ • ﻌ - ა
+:::
+
+## 🌸 ¿Qué es una tarjeta de Crédito? 🌸
+
+-   Tarjeta física o digital
+
+-   Esta concede a sus clientes una línea de Crédito en Cuenta corriente
+
+-   Instrumento financiero y de pago que te da la oportunidad de tener al alcance "dinero extra"
+
+    ![](https://cdn-icons-png.flaticon.com/512/6757/6757707.png){width="275"}
+
+## 🌺 Origen 🌺
+
+El origen de la primera tarjeta de crédito en el mundo se le debe al descuido de Frank X. McNamara al olvidar su cartera en una cena, así en 1950 surge **Diner'sClub.**
+
+Posteriormente en Mexico y América Latina BANAMEX saca *"Bancomático"*
+
+![](https://s.wsj.net/public/resources/images/MI-CA154_DINERS_G_20131210202418.jpg){width="394"}
+
+## 🎀 Diferencias entre Débito y Crédito
+
++------------------------------------------+--------------------------------------------------+
+| ::: {style="color: white;"}              | ::: {style="color: white;"}                      |
+| Débito                                   | Crédito                                          |
+| :::                                      | :::                                              |
++==========================================+==================================================+
+| ::: {style="color: black;"}              | ::: {style="color: black;"}                      |
+| El pago se carga a la cuenta del titular | Es posible pagar incluso si no se dispone fondos |
+| :::                                      | :::                                              |
++------------------------------------------+--------------------------------------------------+
+| ::: {style="color: black;"}              | ::: {style="color: black;"}                      |
+| El pago es hasta el límite de fondos     | El titular contrae una deuda con el banco.       |
+| :::                                      | :::                                              |
++------------------------------------------+--------------------------------------------------+
+
+## 🌷 Conceptos 🌷
+
+### **🌱 Pago mínimo**
+
+Porcentaje del total de la deuda a pagar.
+
+### **🌱 Interés**
+
+-   Ordinarios
+
+-   Moratorios
+
+    *Costo Anual Total (CAT):* Indicador de lo que te va costar un prestamo.
+
+------------------------------------------------------------------------
+
+### **🌱 Fecha límite**
+
+![](https://abm.org.mx/el_credito/imagenes/ficha2/ficha2_ilus2_calendario.png){width="391"}
+
+::: {style="color: #c7ecff;"}
+(╥\_╥)
+:::
+
+------------------------------------------------------------------------
+
+### **🌱 Límite de crédito** {style="Color: black;"}
+
+Para encontrar este límite, se considera:
+
+-   Puntaje e historial de crédito 
+
+-   Ingreso 
+
+-   Deuda como porcentaje de su ingreso 
+
+-   Límite en otras tarjetas de crédito
+
+------------------------------------------------------------------------
+
+### **🌱 Ajustes en el límite de crédito**
+
++--------------------------------------------------+---------------------------------------+
+| Aumenta                                          | Disminuye                             |
++==================================================+=======================================+
+| Ha usado su crédito actual de manera inteligente | Ha adquirido más deudas               |
++--------------------------------------------------+---------------------------------------+
+| Paga constantemente a tiempo                     | Ha dejado de hacer pagos              |
++--------------------------------------------------+---------------------------------------+
+| Su puntaje de crédito general mejora             | Casi no usa la tarjeta                |
++--------------------------------------------------+---------------------------------------+
+| Ha declarado un aumento en sus ingreso           | Su informe de crédito tiene un error  |
++--------------------------------------------------+---------------------------------------+
+| Solicita un aumento al emisor de la tarjeta      | Su identidad se ha visto comprometida |
++--------------------------------------------------+---------------------------------------+
+
+------------------------------------------------------------------------
+
+### 🌱 Saldo Promedio Diario
+
+Es el resultado de sumar cada uno de los saldos diarios registrados en el periodo y de dividir dicha suma entre el total de días del periodo.
+
+Para calcular los intereses de un determinado mes es necesario realizar dos cálculos:
+
+-   Saldo promedio diario por compras y disposiciones del mes anterior.
+
+-   Saldo promedio diario sin compras y disposiciones del mes actual.
+
+------------------------------------------------------------------------
+
+### 🌱 Fecha de corte
+
+Fin de un periodo de registro de las compras o disposiciones de efectivo realizadas en el periodo
+
+![](https://ikiwi.com.mx/wp-content/uploads/fecha-de-corte-tarjeta-de-credito.png)
+
+------------------------------------------------------------------------
+
+### **🌱 Totalero**
+
+Son los usuarios de tarjeta de crédito que cubren su deuda al cierre del mes por lo que no pagan intereses. Los 'no-totaleros' son quienes acarrean una deuda.
+
+### **🌱 Meses sin intereses**
+
+Permiten liquidar el valor de los bienes o servicios adquiridos en unos pocos meses sin incurrir en intereses.
+
+------------------------------------------------------------------------
+
+### **🌱 Pago para no generar intereses**
+
+El importe de este pago considera el total del saldo deudor de la tarjeta de crédito, descontando los saldos que se encuentren en plan de pagos fijos, meses sin intereses y promociones de efectivo inmediato.
+
+![](https://pbs.twimg.com/media/FwYBqeXXoAEq9d4.jpg){width="367"}
+
+------------------------------------------------------------------------
+
+### **🌱 Comisiones**
+
+-   Anualidad del Titular de la tarjeta
+
+-   Anualidad de Tarjeta Adicional
+
+-   Retiro en cajero automático
+
+-   Retiro en efectivo por ventanilla
+
+-   Reposición de tarjeta por robo o extravío
+
+-   Cargo por pagos atrasado
+
+------------------------------------------------------------------------
+
+### 🌱 Sobregirar la tarjeta
+
+Ha utilizado todos los fondos disponibles en su línea de crédito.
+
+![](https://uploadgerencie.com/imagenes/sobregiro-bancario.png){width="710"}
+
+## 💐 Funcionamiento 💐
+
+### 🍃 Inversión
+
+-   Pago mínimo
+
+-   Interés ordinario
+
+-   Saldo a favor
+
+### 🍃 Instrumento de inversión
+
+-   Plazo de 30 días
+
+-   Plazo de 20 días
+
+-   Línea de credito
+
+## 🥀 Intereses que cobra y cómo los cobra 🥀
+
+### ✨ Tasa de interés ordinaria
+
+*tiie+33=Tasa de interés máxima aplicada*
+
+### ✨ Tasa de interés moratoria
+
+*Tasa de interés ordinario\*Factor*
+
+## 🌼 Ejemplo 1
+
+-   **La tasa de interés ordinaria (Anual):** Durante el periodo de intereses de que se trate, suma como máximo 33 puntos porcentuales 
+
+    Si el promedio aritmético de la TIIE fue de 3.5%. Por lo tanto tenemos que: La tasa de interés máxima aplicable será:
+
+    *3.5 + 33 = 36.5% anual.*
+
+-   **Intereses moratorios:** Se multiplica la "La tasa de interés ordinaria" \* un factor que determine el banco.
+
+    (36.5%)\*(1200)=\$438.00
+
+## 🌼 Ejemplo 2
+
+-   **🍄 Saldo promedio diario sin compras y disposiciones del mes actual undefined**
+
+    ![](https://i.ibb.co/xhXD1Y6/2023-09-25-1.png){width="503"}
+
+------------------------------------------------------------------------
+
+-   Saldo anterior de **\$5179.68**
+
+-   Entre el 6 de febrero y el 21 de febrero (**16** días)
+
+-   Se mantuvo por **12** días (del 22 de febrero al 5 de marzo)
+
+Nuevo saldo: **\$5179.68** -- **\$1800** = **\$3379.68**
+
+El saldo promedio diario sin compras y disposiciones del mes actual es:
+
+$SPD= \frac{(5179.68)(16)+(3379.68)(12)}{28} = 4408.25$
+
+El interés por pagar es:
+
+$I= (4408.25)(\frac{0.4548}{360})(28)= 155.93$
+
+------------------------------------------------------------------------
+
+**🍄 Saldo promedio por compras y disposiciones del mes anterior**
+
+![](https://i.ibb.co/xhXD1Y6/2023-09-25-1.png){width="642"}
+
+------------------------------------------------------------------------
+
+Se debe calcular el saldo promedio diario para calcular los intereses correspondientes utilizando el estado de cuenta del mes anterior de tal forma que: $SPD= \frac{(630)(8)+(1090)(5)+(2213)(12)(2561)(4)}{31} = 1525.48$
+
+$I= (1525.48)(\frac{0.4548}{360})(28)= 53.96$
+
+## 🌼 Ejemplo 3
+
+**🍄 Pago mínimo**
+
+-   Enrique debe actualmente \$34 600 en su tarjeta de crédito. 
+
+-   El banco aplica una tasa de interés del 2.5% mensual
+
+-   Enrique realiza un pago mínimo del 12% del saldo total que se debe en la fecha de corte
+
+*Con la fórmula recursiva que muestra el saldo total no pagado al final del mes n calculamos el saldo al final de los tres primeros meses.*
